@@ -1,2 +1,3 @@
 License is belong to NARLAB-NCHC.
 
+This is a restful server for OVX or ONOS VPLS app. The Opennsa with ovx or onos_vpls vpn backend can ask OVX or ONOS VPLS create a connection.via this server.
